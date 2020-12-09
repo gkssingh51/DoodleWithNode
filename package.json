@@ -4,7 +4,7 @@
   "description": "Just a co-doodling app",
   "main": "app.js",
   "scripts": {
-    "start": "node app",
+    "start": "nodemon app",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/gkssingh51/DoodleWithNode/issues"
   },
-  "homepage": "https://github.com/gkssingh51/DoodleWithNode#readme"
+  "homepage": "https://github.com/gkssingh51/DoodleWithNode#readme",
+  "dependencies": {
+    "nodemon": "^2.0.6"
+  }
 }
