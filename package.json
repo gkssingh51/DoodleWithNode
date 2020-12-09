@@ -1,0 +1,25 @@
+{
+  "name": "doodlewithnode",
+  "version": "1.0.0",
+  "description": "Just a co-doodling app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gkssingh51/DoodleWithNode.git"
+  },
+  "keywords": [
+    "NodeJs",
+    "SocketIO",
+    "ExpressJS"
+  ],
+  "author": "GKS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gkssingh51/DoodleWithNode/issues"
+  },
+  "homepage": "https://github.com/gkssingh51/DoodleWithNode#readme"
+}
